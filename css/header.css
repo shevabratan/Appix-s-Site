@@ -7,6 +7,18 @@
 	margin-right: 8px;
 }
 
+.twitfb a {
+	transition: all 0.3s ease-in-out;
+}
+
+.twitfb a:first-child:hover {
+	color: #1da1f2;
+}
+
+.twitfb a:last-child:hover {
+	color: #395597;
+}
+
 header a {
 	text-decoration: none;
 	font-size: 20px;

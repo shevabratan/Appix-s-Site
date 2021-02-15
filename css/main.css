@@ -148,8 +148,12 @@ main .container {
 
 }
 
-.opinion_1, .opinion_2, .latest_news {
+.opinion_1, .opinion_2 {
 	width: 33%;
+}
+
+.latest_news {
+	width: 25%;
 }
 
 .opinion h4 {
@@ -158,6 +162,7 @@ main .container {
 	font-size: 14px;
 	color: #343233;
 	padding: 30px 30px 25px;
+	width: 100%;
 }
 
 .opinion h5 {

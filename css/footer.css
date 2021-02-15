@@ -1,0 +1,23 @@
+.texture_3 {
+	background-image: url(../images/texture_3.jpg);
+	background-size: cover;
+	display: flex;
+	justify-content: space-between;
+}
+
+footer img {
+	margin: 23px 33px;
+	cursor: pointer;
+}
+
+footer div {
+	text-align: right;
+	font-family: "Arial";
+	font-size: 12px;
+	color: #848484;
+	margin: 23px 40px;
+}
+
+footer span {
+	color: #f7f5ee;
+}

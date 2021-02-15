@@ -1,0 +1,59 @@
+.twitfb {
+	margin: 50px 31px 16px 800px;
+	text-align: right;
+}
+
+.twitfb i {
+	margin-right: 8px;
+}
+
+header a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #878787; 
+}
+
+header span	{
+	font-family: "Myriad pro";
+	font-size: 15px;
+	line-height: 20px;
+	color: #939393;
+	position: relative;
+	bottom: 15px;
+	left: 47px;
+}
+
+.navbar {
+	display: flex;
+	background-image: url(../images/texture_1.jpg);
+	padding-left: 30px;
+	margin-top: 75px;
+}
+
+.navbar div a {
+	display: inline-block; 
+	margin: 28px 0px 28px;
+	text-decoration: none;
+	font-family: "Trebuchet MS";
+	font-weight: normal;
+	font-size: 14px;
+	color: #413f40;
+	padding: 5px 24px;
+	border-radius: 4px;
+}
+
+.navbar div a:hover {
+	background-color: #f45300;
+	color: #fff;
+	border-bottom: 1px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.2) inset;
+}
+
+.navbar .active {
+	background-color: #f45300;
+	color: #fff;
+	border-bottom: 1px solid #fff;	
+	border-radius: 4px;
+	box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.2) inset;
+}

@@ -1,0 +1,29 @@
+@import url(../fonts/style/css);
+@import url(header.css);
+@import url(main.css);
+@import url(footer.css);
+
+
+
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/bg_texture.jpg);
+}
+
+h1, h2, h3, h4, h5, p {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.container {
+	width: 960px;
+	margin: 0px auto;
+}
